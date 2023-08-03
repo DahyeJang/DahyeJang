@@ -27,7 +27,7 @@
 
 ## BLOG
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=posinity)](https://velog.io/@posinity) <br/>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=posinity)](https://velog.io/@eungyeole) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=posinity)](https://velog.io/@posinity) 
 
 
 
