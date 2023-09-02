@@ -1,3 +1,8 @@
+<center><img src="https://github.com/DahyeJang/DahyeJang/assets/105340850/456fe1f4-1b1a-41d3-9726-bc8ef872c925" width="800"></center>
+
+<br/>
+<br/>
+
 안녕하세요! **사용자의 만족을 가장 우선하는 개발자**입니다.<br/>
 기술과 디자인의 조화를 추구합니다. UI/UX, 인터랙션에 관심이 많습니다.<br/>
 디자인을 전공해 UI/UX 디자이너로 일하다, 프론트엔드 개발자로 새로운 도전을 하고 있습니다.<br/>
@@ -5,7 +10,7 @@
 
 <br/>
 
-## SKILL
+## 배우고 있어요
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Typescript-4479A1?style=for-the-badge&logo=Typescript&logoColor=white"> 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
@@ -24,7 +29,7 @@
 <br/>
 <br/>
 
-## BLOG
+## 이것저것 기록해요
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=posinity)](https://velog.io/@posinity) <br/>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=posinity)](https://velog.io/@posinity) 
 
